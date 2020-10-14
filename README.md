@@ -1,4 +1,4 @@
-# LeetCode_solutions
+# Hi
 
 My C++ and Python solutions to leetcode problems.
 
