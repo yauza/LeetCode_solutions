@@ -1,6 +1,6 @@
 # LeetCode_solutions
 
-My C++ solutions to leetcode problems.
+My C++ and Python solutions to leetcode problems.
 
 https://leetcode.com/
 
